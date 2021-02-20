@@ -1,0 +1,6 @@
+module Pods_ConexUp {
+  umbrella header "Pods-ConexUp-umbrella.h"
+
+  export *
+  module * { export * }
+}
